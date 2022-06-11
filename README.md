@@ -1,3 +1,9 @@
+```
+윈도우 환경에서는 git bash로 curl를 쉽게 할수있다.
+
+```
+
+
 # Start the application
 export DEBEZIUM_VERSION=1.8
 docker-compose -f docker-compose-jdbc.yaml up
